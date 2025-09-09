@@ -1,10 +1,8 @@
-{"id": 0, "question": "when was the last time anyone was on the moon", "golden_answers": ["14 December 1972 UTC", "December 1972"], "meta_data": {}}
-{"id": 1, "question": "who wrote he ain't heavy he's my brother lyrics", "golden_answers": ["Bobby Scott", "Bob Russell"], "meta_data": {}}
-{"id": 2, "question": "how many seasons of the bastard executioner are there", "golden_answers": ["one", "one season"], "meta_data": {}}
-{"id": 3, "question": "when did the eagles win last super bowl", "golden_answers": ["2017"], "meta_data": {}}
-{"id": 4, "question": "who won last year's ncaa women's basketball", "golden_answers": ["South Carolina"], "meta_data": {}}
-{"id": 5, "question": "when did the isle of wight become an island", "golden_answers": ["During the last Ice Age"], "meta_data": {}}
-{"id": 6, "question": "love yourself by justin bieber is about who", "golden_answers": ["Rihanna"], "meta_data": {}}
-{"id": 7, "question": "who was the ruler of england in 1616", "golden_answers": ["James I"], "meta_data": {}}
-{"id": 8, "question": "what is the hot coffee mod in san andreas", "golden_answers": ["a normally inaccessible mini-game"], "meta_data": {}}
-{"id": 9, "question": "what is the maximum data rate for the 802.11a standard select one", "golden_answers": ["54 Mbit/s"], "meta_data": {}}
+{"id": 0,"question": "《背影》的作者是谁？", "golden_answers": ["《背影》的作者是朱自清。"], "meta_data": {}}
+{"id": 1,"question": "这篇文章主要描写了作者与谁之间的感情？", "golden_answers": ["文章主要描写了作者与父亲之间深厚的感情。"], "meta_data": {}}
+{"id": 2,"question": "故事发生在哪个火车站？",  "golden_answers": ["故事发生在南京浦口火车站。"], "meta_data": {}}
+{"id": 3,"question": "父亲为儿子买了什么水果？",  "golden_answers": ["父亲为儿子买了橘子。"], "meta_data": {}}
+{"id": 4,"question": "文中父亲穿着的衣着描述是什么？", "golden_answers": ["父亲穿着黑布大马褂，深青布棉袍。"], "meta_data": {}}
+{"id": 5,"question": "父亲爬月台时为什么显得很艰难？", "golden_answers": ["因为父亲身体肥胖，穿着棉袍行动不便，月台又比较高。"], "meta_data": {}}
+{"id": 6,"question": "作者看到父亲背影时有什么感受？", "golden_answers": ["作者看到父亲背影时，感动得流下了眼泪，深切感受到父爱的伟大。"], "meta_data": {}}
+{"id": 7,"question": "文章中提到了几次背影？", "golden_answers": ["4次。"], "meta_data": {}}
